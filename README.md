@@ -1,2 +1,4 @@
 # Object-Detection-using-SSD
-This is a simple Single Shot Multibox Detector model performed on a video to detect objects like a person,dog etc.The environment requirements are python version 3.6
+Efficient Net model performed on a image/video to detect postures of a human from a thermal camera.The environment requirements are python version 3.7
+
+https://colab.research.google.com/drive/1k-tMUUG2EGspbwAQ8osStt1lZBIzXwFY
